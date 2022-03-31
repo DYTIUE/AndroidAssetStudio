@@ -20,7 +20,7 @@ import {BaseGenerator} from '../base-generator';
 
 const ICON_SIZE = { w: 48, h: 48 }; // now legacy
 
-const ADAPTIVE_ICON_WIDTH = 108;
+const ADAPTIVE_ICON_WIDTH = 216;
 
 const TARGET_RECTS_BY_SHAPE = {
   circle: { x:  2, y:  2, w:  44, h:  44 },
